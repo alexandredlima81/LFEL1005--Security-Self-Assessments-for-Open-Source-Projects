@@ -20,3 +20,26 @@ This document is intended to aid in roadmapping, and the onboarding of new maint
 * [Secure development practices](#secure-development-practices)
 * [Security issue resolution](#security-issue-resolution)
 * [Appendix](#appendix)
+
+## Metadata
+
+### Software
+- https://privateerproj/privateer
+- https://privateerproj/privateer-sdk
+- https://privateerproj/privateer-raid-wireframe
+
+### Security Provider?
+
+No. Privateer is designed to facilitate security or compliance validation, but it should not be considered a security provider.
+
+### Languages
+
+Go
+
+### Software Bill of Materials
+
+Known Weakness. Automated generation of each repo's SBOM is not yet complete, and should be added to the roadmap.
+
+### Security Links
+
+Known Weakness. Creation of a security-insights.yml should be added to the roadmap.
