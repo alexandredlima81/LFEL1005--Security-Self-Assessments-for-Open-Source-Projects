@@ -6,7 +6,8 @@ This document is intended to aid in roadmapping, and the onboarding of new maint
 
 ## Table of Contents
 
-* [Metadata](#metadata)
+* [Metadata 01](#metadata)
+* [Metadata 02](#metadata)
   * [Security links](#security-links)
 * [Overview](#overview)
   * [Actors](#actors)
@@ -21,7 +22,7 @@ This document is intended to aid in roadmapping, and the onboarding of new maint
 * [Security issue resolution](#security-issue-resolution)
 * [Appendix](#appendix)
 
-## Metadata
+## Metadata 01
 
 ### Software
 - https://privateerproj/privateer
@@ -43,3 +44,13 @@ Known Weakness. Automated generation of each repo's SBOM is not yet complete, an
 ### Security Links
 
 Known Weakness. Creation of a security-insights.yml should be added to the roadmap.
+
+## Metadata 02
+
+| | |
+|-----------|------|
+| Software | https://privateerproj/privateer<‌br‌>https://privateerproj/privateer-sdk<‌br‌>https://privateerproj/privateer-raid-wireframe |
+| Security Provider? | No. Privateer is designed to facilitate security or compliance validation, but it should not be considered a security provider. |
+| Languages | Go |
+| Software Bill of Materials | Known Weakness. Automated generation of each repo's SBOM is not yet complete, and should be added to the roadmap. |
+| Security Links | Known Weakness. Creation of a security-insights.yml should be added to the roadmap. |
